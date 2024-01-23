@@ -17,7 +17,7 @@
   <br>
   📚 Currently, I am immersed in learning JavaScript technologies such as ReactJS, NextJS and NEST.
   <br>
-  💬 Feel free to ask me anything on my [GitHub Issues](https://github.com/haris741/haris741/issues).
+  💬 Feel free to ask me anything on my [GitHub Issues](https://github.com/haseebahmad3399/haseebahmad3399/issues).
   <br>
   <!-- 📫 You can reach me via email at [haseeb.ahmad3399@gmail.com](mailto:haseeb.ahmad3399@gmail.com). -->
 </p>
